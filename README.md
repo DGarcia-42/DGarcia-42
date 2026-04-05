@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Diego%20Garc%C3%ADa&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Diego%20Garc%C3%ADa&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -19,11 +19,21 @@ const diego = {
   username: "DGarcia-42",
   name: "Diego García Santos",
   role: "Full Stack Developer",
-  education: "DAM - Desarrollo de Aplicaciones Multiplataforma",
-  languages: ["Java", "JavaScript", "TypeScript", "HTML", "CSS", "PLSQL"],
-  currentlyLearning: ["Spring Boot", "Angular", "Microservices"],
-  currentProject: "Aion - SaaS collaboration platform for developers",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+  education: "DAM",
+  languages: [
+    "Java", "JavaScript", "TypeScript",
+    "HTML", "CSS", "PLSQL"
+  ],
+  databases: [
+    "MySQL", "PostgreSQL",
+    "MongoDB", "Oracle"
+  ],
+  currentlyLearning: [
+    "Spring Boot", "Angular",
+    "Microservices"
+  ],
+  currentProject: "Aion",
+  funFact: "I debug with console.log 😄"
 };
 ```
 
@@ -55,6 +65,8 @@ const diego = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
