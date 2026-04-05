@@ -14,28 +14,14 @@
 
 ## 🙋‍♂️ About Me
 
-```javascript
-const diego = {
-  username: "DGarcia-42",
-  name: "Diego García Santos",
-  role: "Full Stack Developer",
-  education: "DAM",
-  languages: [
-    "Java", "JavaScript", "TypeScript",
-    "HTML", "CSS", "PLSQL"
-  ],
-  databases: [
-    "MySQL", "PostgreSQL",
-    "MongoDB", "Oracle"
-  ],
-  currentlyLearning: [
-    "Spring Boot", "Angular",
-    "Microservices"
-  ],
-  currentProject: "Aion",
-  funFact: "I debug with console.log 😄"
-};
-```
+- 👤 **Name:** Diego García Santos
+- 💻 **Role:** Full Stack Developer
+- 🎓 **Education:** DAM – Desarrollo de Aplicaciones Multiplataforma
+- 🗣️ **Languages:** Java, JavaScript, TypeScript, HTML, CSS, PLSQL
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
+- 🌱 **Currently Learning:** Spring Boot, Angular, Microservices
+- 🚀 **Current Project:** [Aion](https://github.com/DGarcia-42/Aion) – SaaS collaboration platform for developers
+- ⚡ **Fun Fact:** I debug with console.log and I'm not ashamed 😄
 
 ---
 
